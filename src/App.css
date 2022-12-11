@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+nav {
+  margin-bottom: 2em;
+}
+
+.center {
+  text-align: center;
+}
+
+select {
+  max-width: 230px;
+  margin: 1em auto;
+  text-align: center;
+}
+
+.spinner-border {
+  margin-top: 100px;
+}
+
+.pokemon-details {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.stats {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+li {
+  text-align: start;
+}
+
+.type {
+  margin-top:1em;
+  text-align: start;
+  text-transform: capitalize
+}
+
